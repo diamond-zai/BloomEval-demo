@@ -1,2 +1,2 @@
-# BloomEval-demo
-BloomEval: A Bloom’s Cognitive Taxonomy-Based Benchmark for Evaluating Thinking Capability of Large Reasoning Models
+# BloomEval: A Bloom’s Cognitive Taxonomy-Based Benchmark for Evaluating Thinking Capability of Large Reasoning Models
+We propose a large-scale, fine-grained dataset comprising 94,602 math problems spanning K-12 to higher education, each annotated with Bloom's cognitive level labels, problem parameter annotations, and cognitive level-aligned solve steps. The following is an example of the data, all of which will be available for download after the paper is accepted.
